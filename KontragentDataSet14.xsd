@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="KontragentDataSet14" targetNamespace="http://tempuri.org/KontragentDataSet14.xsd" xmlns:mstns="http://tempuri.org/KontragentDataSet14.xsd" xmlns="http://tempuri.org/KontragentDataSet14.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="KontragentConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="KontragentConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsFormsApp3.Properties.Settings.GlobalReference.Default.KontragentConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_CountryTableAdapter" GeneratorDataComponentClassName="View_CountryTableAdapter" Name="View_Country" UserDataComponentName="View_CountryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="KontragentConnectionString (Settings)" DbObjectName="Kontragent.dbo.View_Country" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Name_Country FROM dbo.View_Country</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Name_Country" DataSetColumn="Name_Country" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="KontragentDataSet14" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="KontragentDataSet14" msprop:Generator_UserDSName="KontragentDataSet14">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_Country" msprop:Generator_TableClassName="View_CountryDataTable" msprop:Generator_TableVarName="tableView_Country" msprop:Generator_TablePropName="View_Country" msprop:Generator_RowDeletingName="View_CountryRowDeleting" msprop:Generator_RowChangingName="View_CountryRowChanging" msprop:Generator_RowEvHandlerName="View_CountryRowChangeEventHandler" msprop:Generator_RowDeletedName="View_CountryRowDeleted" msprop:Generator_UserTableName="View_Country" msprop:Generator_RowChangedName="View_CountryRowChanged" msprop:Generator_RowEvArgName="View_CountryRowChangeEvent" msprop:Generator_RowClassName="View_CountryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name_Country" msprop:Generator_ColumnVarNameInTable="columnName_Country" msprop:Generator_ColumnPropNameInRow="Name_Country" msprop:Generator_ColumnPropNameInTable="Name_CountryColumn" msprop:Generator_UserColumnName="Name_Country">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

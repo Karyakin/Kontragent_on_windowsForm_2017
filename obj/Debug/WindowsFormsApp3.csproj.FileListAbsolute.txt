@@ -1,0 +1,935 @@
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\WindowsForms\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\Для работы последнее\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\Для работы последнее — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\Последняя рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 11.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 14.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 15.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 16.08 СТРЕМНАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 20.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 26.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 27.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.C.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 28.08 рабочая — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 29.08 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 02.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 03.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 04.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 05.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 06.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 09.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 10.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 12.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ПЕРЕЕБАНАЯ 13.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 15.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ПЕРЕЕБАНАЯ 17.09 рабочая\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 23.09 — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ОБЕД\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\dmitrijkarakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 24.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 УТРО\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 25.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ 27.09 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.Web.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 07.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.Web.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 08.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\bin\Debug\Oracle.Web.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\bin\Debug\Oracle.Web.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 10.10 ВЕЧЕР\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\bin\Debug\Oracle.Web.dll
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Autorization.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.General_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Main_Form.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.New_Organisation.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Registration.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Search.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.Apdate_Delete.resources
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.exe
+C:\Users\d.karyakin\Desktop\ГОТОВАЯ С ORACLE 05.11.2019 ВЕЧЕР — копия\ФормаКонтрагент_Для работы\obj\Debug\WindowsFormsApp3.pdb
